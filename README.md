@@ -57,7 +57,7 @@ I enjoy working on:
 
 ## CONNECT
 
-- Github: https://github.com/mwangielvis200-ally
+- Github: https://github.com/mwangielvis200-a11y
 - Email: nyamburaelvis200@gmail.com
 - Whatsapp: 0104657153
 
