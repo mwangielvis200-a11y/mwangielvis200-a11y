@@ -1,12 +1,14 @@
 <div align="center">
 ## Hi there 👋 I'm Elvis
 ###Computer Science|Machine Learning|Deep Learning|AI Engineer
+  
 Building projects, solving problems and growing one commit at a time.
   
 <\div>
 
 ---
 ##ABOUT ME
+
 I'm a computer science student interested in Machine Learning and AI Engineering, in general , Technology.
 Interested in learning new things, exploring , building smart systems with data and automation.
 
